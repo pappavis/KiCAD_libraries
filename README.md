@@ -43,3 +43,10 @@ Pretty is een nieuwe formaat sinds KiCAD 4.0. Je zult echter nog heeeeeeel veel 
 Hiermee is de installatie van "KiCAD library, modules en footprints 20170912" afgerond.
 
 EINDE.
+
+CREDITS:
+ - Versameld deur Michiel Erasmus  #easylab4kids
+ - Veel opgehaald van <a href="http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm">http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm</a>
+ 
+ <img src="http://smisioto.no-ip.org/elettronica/kicad/imgs/mod_capacitors.jpg" width="40%" height="40%">
+ 
