@@ -1,8 +1,14 @@
 # KiCAD_libraries
-'n Versameling van libraries, footprints en 3d modelle vir KiCAD
+Installatie;
+1. Download Github.com client en installeer
+2. Open een git shell in map "C:\Program Files\KiCad\"
+3. doen 
+>> git clone https://github.com/pappavis/KiCAD_libraries
 
-Alle  bestanden moet naar map "C:\Program Files\KiCad\"
+4. verplaats die inhoud van KiCAD_libraries na ..\KiCAD\
 
+
+***Bibliotheken koppelen***
 
 Stap 1.
 Alle  bestanden moet naar map "C:\Program Files\KiCad\"
