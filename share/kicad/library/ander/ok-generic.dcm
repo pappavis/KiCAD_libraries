@@ -1,0 +1,115 @@
+EESchema-DOCLIB  Version 2.0  Date: Sa 04 Mai 2013 09:41:21 CEST
+#
+$CMP C
+D capacitor
+$ENDCMP
+#
+$CMP CFEEDT
+D feedthrough capacitor
+$ENDCMP
+#
+$CMP CPOL
+D polarized (electrolytic) capacitor
+$ENDCMP
+#
+$CMP CRYSTAL
+D crystal
+$ENDCMP
+#
+$CMP CRYSTAL-C
+D crystal with included load capacitors
+$ENDCMP
+#
+$CMP CVAR
+D variable capacitor
+$ENDCMP
+#
+$CMP DIAC
+D diac
+$ENDCMP
+#
+$CMP FERRITE
+D ferrite bead
+$ENDCMP
+#
+$CMP FUSE
+D fuse
+$ENDCMP
+#
+$CMP HEATING
+D heating element
+$ENDCMP
+#
+$CMP HEATSINK
+D heatsink
+$ENDCMP
+#
+$CMP L
+D inductor
+$ENDCMP
+#
+$CMP LCORE
+D inductor with magnetic core
+$ENDCMP
+#
+$CMP LCOREGAP
+D inductor with gapped magnetic core
+$ENDCMP
+#
+$CMP LCOREVAR
+D variable inductor with magnetic core
+$ENDCMP
+#
+$CMP LDR
+D LDR
+$ENDCMP
+#
+$CMP R
+D R
+$ENDCMP
+#
+$CMP RARR4
+D quad resistor array
+$ENDCMP
+#
+$CMP RECTIFIER
+D bridge rectifier
+$ENDCMP
+#
+$CMP RPOT
+D potentiometer
+$ENDCMP
+#
+$CMP RVAR
+D variable R
+$ENDCMP
+#
+$CMP SHUNT
+D shunt resistor (4 pins)
+$ENDCMP
+#
+$CMP SPEAKER
+D speaker
+$ENDCMP
+#
+$CMP TESTPOINT
+D testpoint
+$ENDCMP
+#
+$CMP THERMISTOR
+D Thermistor
+$ENDCMP
+#
+$CMP THYRISTOR
+D thyristor
+$ENDCMP
+#
+$CMP TRIAC
+D triac
+$ENDCMP
+#
+$CMP VARISTOR
+D Varistor
+$ENDCMP
+#
+#End Doc Library

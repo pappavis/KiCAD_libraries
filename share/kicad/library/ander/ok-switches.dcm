@@ -1,0 +1,183 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 01 Mai 2013 10:43:11 CEST
+#
+$CMP DIPSSW02
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW03
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW04
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW05
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW06
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW07
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW08
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW09
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW10
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSSW12
+D 2 pole DIP switch, single switches
+$ENDCMP
+#
+$CMP DIPSW01
+D 1 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW02
+D 2 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW03
+D 3 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW04
+D 4 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW05
+D 5 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW06
+D 6 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW07
+D 7 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW08
+D 8 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW09
+D 9 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW10
+D 10 pole DIP switch
+$ENDCMP
+#
+$CMP DIPSW12
+D 12 pole DIP switch
+$ENDCMP
+#
+$CMP INCENC
+D Incremental Encoder
+$ENDCMP
+#
+$CMP INCENC_SW
+D Incremental Encoder with push button switch
+$ENDCMP
+#
+$CMP SW-3PDT
+D 3PDT switch
+$ENDCMP
+#
+$CMP SW-3PST-NC
+D 3PST normally closed switch
+$ENDCMP
+#
+$CMP SW-3PST-NO
+D 3PST normally open switch
+$ENDCMP
+#
+$CMP SW-4PDT
+D 4PDT switch
+$ENDCMP
+#
+$CMP SW-4PST-NC
+D 4PST normally closed switch
+$ENDCMP
+#
+$CMP SW-4PST-NO
+D 4PST normally open switch
+$ENDCMP
+#
+$CMP SW-DPDT
+D DPDT switch
+$ENDCMP
+#
+$CMP SW-DPST-NC
+D DPST normally closed switch
+$ENDCMP
+#
+$CMP SW-DPST-NO
+D DPST normally open switch
+$ENDCMP
+#
+$CMP SW-SPDT
+D SPDT switch
+$ENDCMP
+#
+$CMP SW-SPST-NC
+D SPST normally open switch
+$ENDCMP
+#
+$CMP SW-SPST-NO
+D SPST normally open switch
+$ENDCMP
+#
+$CMP SWS02
+D 2 pin DIP switch
+$ENDCMP
+#
+$CMP SWS03
+D 3 pin DIP switch
+$ENDCMP
+#
+$CMP SWS04
+D 4 pin DIP switch
+$ENDCMP
+#
+$CMP SWS05
+D 5 pin DIP switch
+$ENDCMP
+#
+$CMP SWS06
+D 6 pin DIP switch
+$ENDCMP
+#
+$CMP SWS07
+D 7 pin DIP switch
+$ENDCMP
+#
+$CMP SWS08
+D 8 pin DIP switch
+$ENDCMP
+#
+$CMP SWS09
+D 9 pin DIP switch
+$ENDCMP
+#
+$CMP SWS10
+D 10 pin DIP switch
+$ENDCMP
+#
+$CMP SWS12
+D 12 pin DIP switch
+$ENDCMP
+#
+#End Doc Library

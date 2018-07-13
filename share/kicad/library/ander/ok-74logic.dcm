@@ -1,0 +1,419 @@
+EESchema-DOCLIB  Version 2.0  Date: So 23 Jun 2013 14:02:47 CEST
+#
+$CMP 74X00
+D quad 2-input NAND gatter
+$ENDCMP
+#
+$CMP 74X01
+D quad 2-input NAND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X02
+D quad 2-input NOR gatter
+$ENDCMP
+#
+$CMP 74X03
+D quad 2-input NAND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X04
+D hex inverter
+$ENDCMP
+#
+$CMP 74X05
+D hex inverter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X06
+D hex inverter, open drain/collector high voltage output
+$ENDCMP
+#
+$CMP 74X07
+D hex buffer, open drain/collector output
+$ENDCMP
+#
+$CMP 74X08
+D quad 2-input AND gatter
+$ENDCMP
+#
+$CMP 74X09
+D quad 2-input AND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X10
+D triple 3-input NAND gatter
+$ENDCMP
+#
+$CMP 74X107
+D dual JK-flipflop with reset, negative edge trigger
+$ENDCMP
+#
+$CMP 74X109
+D dual J!K-flipflop with set and reset, positive edge trigger
+$ENDCMP
+#
+$CMP 74X11
+D triple 3-input AND gatter
+$ENDCMP
+#
+$CMP 74X112
+D dual JK-flipflop with set and reset, negative edge trigger
+$ENDCMP
+#
+$CMP 74X12
+D triple 3-input NAND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X123
+D dual retriggerable monostable multivibrator with reset
+$ENDCMP
+#
+$CMP 74X125
+D quad 3-state buffer
+$ENDCMP
+#
+$CMP 74X126
+D quad 3-state buffer
+$ENDCMP
+#
+$CMP 74X13
+D dual 4-input NAND gatter with schmitt-trigger inputs
+$ENDCMP
+#
+$CMP 74X132
+D quad 2-input NAND Schmitt trigger
+$ENDCMP
+#
+$CMP 74X137
+D 3-to-8 line decoder/demultiplexer with address latches; inverting
+$ENDCMP
+#
+$CMP 74X138
+D 3-to-8 line decoder/demultiplexer; inverting
+$ENDCMP
+#
+$CMP 74X139
+D dual 2-to-4 line decoder/demultiplexer; inverting
+$ENDCMP
+#
+$CMP 74X14
+D hex inverting schmitt trigger
+$ENDCMP
+#
+$CMP 74X147
+D 10-to-4 line priority encoder
+$ENDCMP
+#
+$CMP 74X148
+D 8-to-3 line priority encoder
+$ENDCMP
+#
+$CMP 74X15
+D triple 3-input AND gatter
+$ENDCMP
+#
+$CMP 74X151
+D 8 input multiplexer
+$ENDCMP
+#
+$CMP 74X152
+D 8 input multiplexer
+$ENDCMP
+#
+$CMP 74X153
+D dual 4-input multiplexer
+$ENDCMP
+#
+$CMP 74X154
+D 4-to-16 line decoder/demultiplexer
+$ENDCMP
+#
+$CMP 74X157
+D quad 2-input multiplexer
+$ENDCMP
+#
+$CMP 74X157m
+D quad 2-input multiplexer (1 symbol)
+$ENDCMP
+#
+$CMP 74X158
+D quad 2-input multiplexer
+$ENDCMP
+#
+$CMP 74X16
+D hex buffer, inverting, open drain/collector output
+$ENDCMP
+#
+$CMP 74X161
+D presettable 4 bit binary counter, asynchronous reset
+$ENDCMP
+#
+$CMP 74X163
+D presettable 4 bit binary counter, synchronous reset
+$ENDCMP
+#
+$CMP 74X165
+D 8 bit parallel-in/serial-out shift register
+$ENDCMP
+#
+$CMP 74X166
+D 8 bit parallel-in/serial-out shift register
+$ENDCMP
+#
+$CMP 74X17
+D hex buffer, open drain/collector output
+$ENDCMP
+#
+$CMP 74X173
+D quad D-type flipflop; positive edge trigger; 3-state
+$ENDCMP
+#
+$CMP 74X174
+D hex D-type flipflop with reset; positive edge trigger
+$ENDCMP
+#
+$CMP 74X175
+D quad D-type flipflop with reset; positive edge trigger
+$ENDCMP
+#
+$CMP 74X192
+D presettable synchronous BCD decade up/down counter
+$ENDCMP
+#
+$CMP 74X193
+D presettable synchronous 4-bit binary up/down counter
+$ENDCMP
+#
+$CMP 74X194
+D 4-bit bidirectional universal shift register
+$ENDCMP
+#
+$CMP 74X195
+D 4-bit parallel access shift register
+$ENDCMP
+#
+$CMP 74X1G08
+D single 2-input AND gatter
+$ENDCMP
+#
+$CMP 74X20
+D dual 4-input NAND gatter
+$ENDCMP
+#
+$CMP 74X21
+D dual 4-input AND gatter
+$ENDCMP
+#
+$CMP 74X22
+D dual 4-input NAND gatter with open drain/collector outputs
+$ENDCMP
+#
+$CMP 74X221
+D dual retriggerable monostable multivibrator with reset
+$ENDCMP
+#
+$CMP 74X237
+D 3-to-8 line decoder/demultiplexer with address latches; non-inverting
+$ENDCMP
+#
+$CMP 74X238
+D 3-to-8 line decoder/demultiplexer; non-inverting
+$ENDCMP
+#
+$CMP 74X240
+D Octal buffer/line driver; 3-state; inverting
+$ENDCMP
+#
+$CMP 74X241
+D Octal buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP 74X243
+D Quad bus transceiver; 3-state
+$ENDCMP
+#
+$CMP 74X244
+D Octal buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP 74X245
+D Octal bus transceiver; 3-state
+$ENDCMP
+#
+$CMP 74X25
+D dual 4-input NOR gatter with strobe
+$ENDCMP
+#
+$CMP 74X251
+D 8 input multiplexer
+$ENDCMP
+#
+$CMP 74X253
+D dual 4-input multiplexer; 3-state
+$ENDCMP
+#
+$CMP 74X257
+D quad 2-input multiplexer; 3-state
+$ENDCMP
+#
+$CMP 74X258
+D quad 2-input multiplexer; inverting; 3-state
+$ENDCMP
+#
+$CMP 74X259
+D 8-bit adressable latch
+$ENDCMP
+#
+$CMP 74X26
+D quad 2-input NAND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X266
+D quad 2-input XNOR gatter with open drain/collector output
+$ENDCMP
+#
+$CMP 74X27
+D triple 3-input NOR gatter
+$ENDCMP
+#
+$CMP 74X273
+D Octal D-type flip-flop with reset; positive edge trigger
+$ENDCMP
+#
+$CMP 74X28
+D quad 2-input NOR gatter
+$ENDCMP
+#
+$CMP 74X280
+D 9-bit odd/even parity generator/checker
+$ENDCMP
+#
+$CMP 74X283
+D 4-bit binary full adder with fast carry
+$ENDCMP
+#
+$CMP 74X30
+D 8-input NAND gatter
+$ENDCMP
+#
+$CMP 74X31
+D delay elements
+$ENDCMP
+#
+$CMP 74X32
+D quad 2-input OR gatter
+$ENDCMP
+#
+$CMP 74X33
+D quad 2-input NOR gatter, open drain/collector outputs
+$ENDCMP
+#
+$CMP 74X37
+D quad 2-input NAND gatter
+$ENDCMP
+#
+$CMP 74X38
+D quad 2-input NAND gatter, open drain/collector output
+$ENDCMP
+#
+$CMP 74X39
+D quad 2-input NAND driver, open drain/collector output
+$ENDCMP
+#
+$CMP 74X393
+D Quad bistable transparent latch
+$ENDCMP
+#
+$CMP 74X40
+D dual 4-input NAND buffer
+$ENDCMP
+#
+$CMP 74X41
+D 4-to-10 BCD-decimal decoder
+$ENDCMP
+#
+$CMP 74X42
+D 4-to-10 BCD line decoder
+$ENDCMP
+#
+$CMP 74X43
+D 4-to-10 Excess-3 line decoder
+$ENDCMP
+#
+$CMP 74X44
+D 4-to-10 Excess-3-Gray line decoder
+$ENDCMP
+#
+$CMP 74X45
+D 4-to-10 BCD line decoder
+$ENDCMP
+#
+$CMP 74X46
+D BCD to 7 segment
+$ENDCMP
+#
+$CMP 74X47
+D BCD to 7 segment
+$ENDCMP
+#
+$CMP 74X48
+D BCD to 7 segment
+$ENDCMP
+#
+$CMP 74X49
+D BCD to 7 segment
+$ENDCMP
+#
+$CMP 74X541
+D Octal buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP 74X595
+D 8-bit serial-in/serial or parallel-out shift register with output latches; 3-state
+$ENDCMP
+#
+$CMP 74X72
+D and-gated master-slave JK-flipflop with preset and clear
+$ENDCMP
+#
+$CMP 74X73
+D dual JK-flipflop with clear
+$ENDCMP
+#
+$CMP 74X74
+D dual D-type flipflop with set and reset
+$ENDCMP
+#
+$CMP 74X75
+D Quad bistable transparent latch
+$ENDCMP
+#
+$CMP 74X76
+D dual JK-flipflop with preset and clear
+$ENDCMP
+#
+$CMP 74X85
+D 4 bit magnitude comparator
+$ENDCMP
+#
+$CMP 74X86
+D quad 2-input XOR gatter
+$ENDCMP
+#
+$CMP 74X90
+D 4 bit binary ripple counter
+$ENDCMP
+#
+$CMP 74X92
+D divide-by-12 counter (divide-by-2 and divide-by-6 stages)
+$ENDCMP
+#
+$CMP 74X93
+D 4 bit binary ripple counter
+$ENDCMP
+#
+$CMP 74X95
+D 4-bit parallel-access shift register
+$ENDCMP
+#
+#End Doc Library

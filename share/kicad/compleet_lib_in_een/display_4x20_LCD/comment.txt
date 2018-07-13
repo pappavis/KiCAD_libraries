@@ -1,0 +1,2 @@
+module file for LCD display Newhaven display NHD 0420DZ FL YBW
+compatible Hitachi HD44780

@@ -1,0 +1,71 @@
+EESchema-DOCLIB  Version 2.0  Date: Di 22 Jan 2013 18:54:55 CET
+#
+$CMP BA3812
+D BA3812 -- 5 channel graphic equalizer
+$ENDCMP
+#
+$CMP INA118
+D variable gain instrumentation amplifier
+$ENDCMP
+#
+$CMP LM111
+D single comparator in 8-pin case
+$ENDCMP
+#
+$CMP LM13600
+D dual operational transconductance amplifier (OTA)
+$ENDCMP
+#
+$CMP LM139
+D quad comparator, open collector
+$ENDCMP
+#
+$CMP LM193
+D dual comparator, open collector
+$ENDCMP
+#
+$CMP LM324
+D quad opamp in 14-pin case
+$ENDCMP
+#
+$CMP LM386
+D low voltage audio power amplifier
+$ENDCMP
+#
+$CMP LM3900
+D quad opamp in 14-pin case
+$ENDCMP
+#
+$CMP LTC2050-5
+D opamp in 5-pin SOT case
+$ENDCMP
+#
+$CMP LTC2050-6
+D opamp in 6-pin SOT case, /SHDN pin
+$ENDCMP
+#
+$CMP LTC2050-8
+D opamp in 8-pin case, /SHDN pin
+$ENDCMP
+#
+$CMP NE531
+D opamp in 8-pin case, 2 offset pins, 1 frequency compensation
+$ENDCMP
+#
+$CMP NE555
+D NE555 timer ic
+$ENDCMP
+#
+$CMP TL071
+D opamp in 8-pin case, 2 offset pins
+$ENDCMP
+#
+$CMP TL072
+D dual opamp in 8-pin case
+$ENDCMP
+#
+$CMP UA741
+D opamp in 8-pin case, 2 offset pins
+$ENDCMP
+#
+#End Doc Library

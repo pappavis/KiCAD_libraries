@@ -1,0 +1,53 @@
+EESchema-DOCLIB  Version 2.0  Date: вто, 12 мај 2015 21:16:31 CEST
+#
+$CMP DAC121S101
+D The DAC121S101 is a full-featured, general purpose 12-bit voltage-output digital-to-analog converter (DAC) that can operate from a single +2.7V to 5.5V supply and consumes just 177 μA of current at 3.6 Volts.
+K DAC, 12bit, converter
+F http://www.ti.com/lit/ds/symlink/dac121s101-q1.pdf
+$ENDCMP
+#
+$CMP OPA735AID
+D 05uV/degC (max), Single-Supply CMOS Zero-Drift Series Operational Amplifier
+K opamp, rail-to-rail
+F http://www.ti.com/lit/gpn/opa735
+$ENDCMP
+#
+$CMP OPA735AIDBVT
+D 05uV/degC (max), Single-Supply CMOS Zero-Drift Series Operational Amplifier
+K opamp, rail-to-rail
+F http://www.ti.com/lit/gpn/opa735
+$ENDCMP
+#
+$CMP TL431
+D TL431 Voltage reference
+K reference, 2.5, ref
+F http://www.ti.com/lit/ds/symlink/tl431.pdf
+$ENDCMP
+#
+$CMP TLC5916
+D 8-Bit Constant-Current LED Sink Driver 
+K Led driver, constant-current, sink driver
+$ENDCMP
+#
+$CMP TLC5927
+D 16-CHANNEL CONSTANT-CURRENT LED SINK DRIVERS
+K led driver, led, 16-bit
+F http://www.ti.com/lit/gpn/tlc5927
+$ENDCMP
+#
+$CMP TLC5951
+D 24-Channel, 12-Bit PWM LED Driver with 7-Bit Dot Correction and 3-Group, 8-Bit Global Brightness Control
+K Led driver, PWM driver, constant current
+$ENDCMP
+#
+$CMP TPIC6595
+D Power logic 8-bit shift register
+K shift register, power, 8-bit
+$ENDCMP
+#
+$CMP TPIC6C595
+D Power logic 8-bit shift register
+K shift register, power, 8-bit
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Mo 14 Okt 2013 22:17:10 CEST
+#
+$CMP BTDR-2
+D Belton/Accutronics Reverb IC
+$ENDCMP
+#
+$CMP PT2399
+D PT2399 digital delay IC
+$ENDCMP
+#
+#End Doc Library

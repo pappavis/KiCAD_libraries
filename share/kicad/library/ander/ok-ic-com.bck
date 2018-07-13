@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 23 Okt 2013 18:46:28 CEST
+#
+$CMP MAX485
+D RS-485/RS-422 transceivers
+$ENDCMP
+#
+$CMP MAX488
+D RS-485/RS-422 transceivers
+$ENDCMP
+#
+$CMP MAX489
+D RS-485/RS-422 transceivers
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 19 Jun 2013 21:20:08 CEST
+#
+$CMP CNY-17
+D Optocoupler
+$ENDCMP
+#
+$CMP LCD-HD44780
+D HD44780 compatible standard LCD
+$ENDCMP
+#
+$CMP MOC3052
+D optotriac
+$ENDCMP
+#
+$CMP SFH690ABT
+D Photocoupler, Toshiba TLP781,TLP781F
+$ENDCMP
+#
+$CMP TLP781F
+D Photocoupler, Toshiba TLP781,TLP781F
+$ENDCMP
+#
+$CMP VTL5C
+D LED/LDR combo; Vactrol
+$ENDCMP
+#
+#End Doc Library

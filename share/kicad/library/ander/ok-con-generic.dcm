@@ -1,0 +1,151 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 01 Mai 2013 09:57:48 CEST
+#
+$CMP CON-DRILL
+D drill hole - connected
+$ENDCMP
+#
+$CMP CON1X01
+D generic connector, 1x1 pins
+$ENDCMP
+#
+$CMP CON1X02
+D generic connector, 1x2 pins
+$ENDCMP
+#
+$CMP CON1X03
+D generic connector, 1x3 pins
+$ENDCMP
+#
+$CMP CON1X04
+D generic connector, 1x4 pins
+$ENDCMP
+#
+$CMP CON1X05
+D generic connector, 1x5 pins
+$ENDCMP
+#
+$CMP CON1X05S
+D generic connector, 1x5 pins, small spacing
+$ENDCMP
+#
+$CMP CON1X06
+D generic connector, 1x6 pins
+$ENDCMP
+#
+$CMP CON1X06s
+D generic connector, 1x6 pins, small spacing
+$ENDCMP
+#
+$CMP CON1X07
+D generic connector, 1x7 pins
+$ENDCMP
+#
+$CMP CON1X08
+D generic connector, 1x8 pins
+$ENDCMP
+#
+$CMP CON1X09
+D generic connector, 1x9 pins
+$ENDCMP
+#
+$CMP CON1X10
+D generic connector, 1x10 pins
+$ENDCMP
+#
+$CMP CON1X10S
+D generic connector, 1x10 pins, small spacing
+$ENDCMP
+#
+$CMP CON1X12
+D generic connector, 1x12 pins
+$ENDCMP
+#
+$CMP CON1X14
+D generic connector, 1x14 pins
+$ENDCMP
+#
+$CMP CON1X16
+D generic connector, 1x16 pins
+$ENDCMP
+#
+$CMP CON1X16S
+D generic connector, 1x16 pins -- small spacing
+$ENDCMP
+#
+$CMP CON2X01
+D generic connector, 2x2 pins
+$ENDCMP
+#
+$CMP CON2X02
+D generic connector, 2x2 pins
+$ENDCMP
+#
+$CMP CON2X03
+D generic connector, 2x3 pins
+$ENDCMP
+#
+$CMP CON2X04
+D generic connector, 2x4 pins
+$ENDCMP
+#
+$CMP CON2X05
+D generic connector, 2x5 pins
+$ENDCMP
+#
+$CMP CON2X06
+D generic connector, 2x6 pins
+$ENDCMP
+#
+$CMP CON2X07
+D generic connector, 2x7 pins
+$ENDCMP
+#
+$CMP CON2X08
+D generic connector, 2x8 pins
+$ENDCMP
+#
+$CMP CON2X09
+D generic connector, 2x9 pins
+$ENDCMP
+#
+$CMP CON2X10
+D generic connector, 2x10 pins
+$ENDCMP
+#
+$CMP CON2X11
+D generic connector, 2x11 pins
+$ENDCMP
+#
+$CMP CON2X12
+D generic connector, 2x12 pins
+$ENDCMP
+#
+$CMP CON2X13
+D generic connector, 2x13 pins
+$ENDCMP
+#
+$CMP CON2X14
+D generic connector, 2x14 pins
+$ENDCMP
+#
+$CMP CON2X16
+D generic connector, 2x16 pins
+$ENDCMP
+#
+$CMP CON2X18
+D generic connector, 2x18 pins
+$ENDCMP
+#
+$CMP CON2X20
+D generic connector, 2x20 pins
+$ENDCMP
+#
+$CMP DC-JACK
+D DC Jack - e.g. 2.1, 2.5, ... mm
+$ENDCMP
+#
+$CMP DC-JACK-SW
+D DC Jack - e.g. 2.1, 2.5, ... mm
+$ENDCMP
+#
+#End Doc Library

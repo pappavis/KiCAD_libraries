@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: Mo 17 Jun 2013 23:24:41 CEST
+#
+$CMP STM32F100V8
+D STM32F100V8, STM32F100VB - STM32 F1 32-bit µC
+$ENDCMP
+#
+#End Doc Library

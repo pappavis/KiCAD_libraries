@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE556P
+D NE556P timer komponent
+K 556
+$ENDCMP
+#
+#End Doc Library

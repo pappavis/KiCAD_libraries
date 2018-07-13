@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0  Date: Mi 07 Aug 2013 21:40:51 CEST
+#
+$CMP 78XX
+D 78xx voltage regulator
+$ENDCMP
+#
+$CMP AP5100
+D AP5100 - Diodes Inc 1.2A Step-Down 1.4MHz
+$ENDCMP
+#
+$CMP LM1117-ADJ
+D *1117 adjustible voltage regulator
+$ENDCMP
+#
+$CMP LM2665
+D switched capacitor voltage doubler
+$ENDCMP
+#
+$CMP LM4040
+D shunt voltage reference
+$ENDCMP
+#
+$CMP LM5015
+D LM5015 two-switch forward converter regulator ic
+$ENDCMP
+#
+$CMP MIC2951
+D MIC2951 LDO voltage regulator
+$ENDCMP
+#
+$CMP MIC2954
+D MIC2951 LDO voltage regulator
+$ENDCMP
+#
+$CMP MIC4680
+D MIC4680 1A 200kHz buck regulator
+$ENDCMP
+#
+#End Doc Library

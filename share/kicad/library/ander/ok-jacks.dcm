@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0  Date: Di 16 Jul 2013 12:50:23 CEST
+#
+$CMP BNC
+D BNC jack
+$ENDCMP
+#
+$CMP DSUBJACK-15
+D D-SUB jack, 15p
+$ENDCMP
+#
+$CMP DSUBJACK-15S
+D D-SUB jack, 15p, shielding pin
+$ENDCMP
+#
+$CMP DSUBJACK-25
+D D-SUB jack, 25p
+$ENDCMP
+#
+$CMP DSUBJACK-25S
+D D-SUB jack, 25p, shielding pin
+$ENDCMP
+#
+$CMP DSUBJACK-9
+D D-SUB jack, 9p
+$ENDCMP
+#
+$CMP DSUBJACK-9S
+D D-SUB jack, 9p, shielding pin
+$ENDCMP
+#
+$CMP MODJACK-4
+D modular jack, 4 pins
+$ENDCMP
+#
+$CMP MODJACK-8
+D modular jack, 8 pins
+$ENDCMP
+#
+$CMP MODJACK-8-2LED
+D modular jack, 8 pins, 2 LEDs
+$ENDCMP
+#
+$CMP MODJACK-8-LED
+D modular jack, 8 pins, 1 LED
+$ENDCMP
+#
+$CMP PHJACK-2-ST-SW
+D dual telephone jack, stereo, switchable ("stackjack")
+$ENDCMP
+#
+$CMP PHJACK-MN
+D Telephone jack, mono
+$ENDCMP
+#
+$CMP PHJACK-MN-SW
+D Telephone jack, mono, switchable
+$ENDCMP
+#
+$CMP PHJACK-ST
+D Telephone jack, stereo
+$ENDCMP
+#
+$CMP PHJACK-ST-SW
+D Telephone jack, stereo, switchable
+$ENDCMP
+#
+$CMP RCAJACK
+D RCA jack
+$ENDCMP
+#
+$CMP RCAJACK-2
+D dual RCA jack
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+(module EasyPad-8mm (layer F.Cu) (tedit 582E1384)
+  (descr "SIL 1 pin")
+  (fp_text reference SIL01 (at -1.27 0 90) (layer F.SilkS) hide
+    (effects (font (size 0.508 0.508) (thickness 0.1016)))
+  )
+  (fp_text value VAL** (at 1.27 0 90) (layer F.SilkS) hide
+    (effects (font (size 0.508 0.508) (thickness 0.1016)))
+  )
+  (pad 1 thru_hole rect (at 0 0) (size 1.39954 1.19964) (drill 0.001) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 connect rect (at 0 0) (size 8.39954 6.19964) (layers F.Cu F.Mask))
+)

@@ -1,0 +1,115 @@
+EESchema-DOCLIB  Version 2.0  Date: Do 19 Sep 2013 22:34:18 CEST
+#
+$CMP 2N7002
+D Logic level compatible N-channel mosfet
+$ENDCMP
+#
+$CMP BC847BS
+D dual NPN bipolar transistor
+$ENDCMP
+#
+$CMP BSS84
+D BSS84 (SOT-23) P-Mosfet
+$ENDCMP
+#
+$CMP DMP4051
+D BSS84 (SOT-23) P-Mosfet
+$ENDCMP
+#
+$CMP N-DARL
+D NPN darlington bipolar transistor
+$ENDCMP
+#
+$CMP N-IGBT
+D N channel IGBT
+$ENDCMP
+#
+$CMP N-JFET
+D N channel J-FET
+$ENDCMP
+#
+$CMP NDC7002N
+D dual N-Mosfet enhancement type
+$ENDCMP
+#
+$CMP NMOS-D-3
+D N channel mosfet, depletion type
+$ENDCMP
+#
+$CMP NMOS-D-4
+D N channel mosfet, depletion type, separated bulk pin
+$ENDCMP
+#
+$CMP NMOS-E-3
+D N channel mosfet, enhancement type
+$ENDCMP
+#
+$CMP NMOS-E-4
+D N channel mosfet, enhancement type, separated bulk pin
+$ENDCMP
+#
+$CMP NPN
+D NPN bipolar transistor
+$ENDCMP
+#
+$CMP NPN-DUAL
+D dual NPN bipolar transistor
+$ENDCMP
+#
+$CMP NPN-PHOTO-2
+D NPN photo transistor
+$ENDCMP
+#
+$CMP NPN-PHOTO-3
+D NPN photo transistor with base
+$ENDCMP
+#
+$CMP P-DARL
+D PNP darlington bipolar transistor
+$ENDCMP
+#
+$CMP P-IGBT
+D P channel IGBT
+$ENDCMP
+#
+$CMP P-JFET
+D P channel J-FET
+$ENDCMP
+#
+$CMP PMOS-D-3
+D P channel mosfet, depletion type
+$ENDCMP
+#
+$CMP PMOS-D-4
+D P channel mosfet, depletion type, separated bulk pin
+$ENDCMP
+#
+$CMP PMOS-E-3
+D P channel mosfet, enhancement type
+$ENDCMP
+#
+$CMP PMOS-E-4
+D P channel mosfet, enhancement type, separated bulk pin
+$ENDCMP
+#
+$CMP PNP
+D PNP bipolar transistor
+$ENDCMP
+#
+$CMP PNP-DUAL
+D dual PNP bipolar transistor
+$ENDCMP
+#
+$CMP PNP-PHOTO-2
+D PNP phpto transistor
+$ENDCMP
+#
+$CMP PNP-PHOTO-3
+D PNP phpto transistor with base
+$ENDCMP
+#
+$CMP ULN2003
+D High Voltage, High Current Darlington Transistor Array – 500mA, 50V
+$ENDCMP
+#
+#End Doc Library

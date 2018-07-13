@@ -1,0 +1,50 @@
+PCBNEW-LibModule-V1  jeu. 18 oct. 2012 14:38:00 CEST
+# encoding utf-8
+Units mm
+$INDEX
+fus_auto_keystone_3522-2
+$EndINDEX
+$MODULE fus_auto_keystone_3522-2
+Po 0 0 0 15 507FF7DB 00000000 ~~
+Li fus_auto_keystone_3522-2
+Cd fusible auto, support keystone 3522-2
+Kw fusible auto support keystone 3522-2
+Sc 0
+AR /507A99AB
+Op 0 0 0
+T0 -0.127 -3.683 1.524 1.524 0 0.3048 N V 21 N "F1"
+T1 0.9906 3.9776 1.524 1.524 0 0.3048 N V 21 N "FUSE **A"
+DS -9.66216 -2.23012 9.75868 -2.23012 0.381 21
+DS 9.75868 -2.23012 9.75868 2.21996 0.381 21
+DS 9.75868 2.21996 -9.69772 2.2352 0.381 21
+DS -9.69772 2.2352 -9.69772 -2.2098 0.381 21
+$PAD
+Sh "2" O 3.556 5.08 0 0 0
+Dr 2.54 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.1272 -0.0102
+$EndPAD
+$PAD
+Sh "2" O 3.556 5.08 0 0 0
+Dr 2.54 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.0472 -0.0102
+$EndPAD
+$PAD
+Sh "1" O 3.556 5.08 0 0 0
+Dr 2.54 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.0968 -0.0102
+$EndPAD
+$PAD
+Sh "1" O 3.556 5.08 0 0 0
+Dr 2.54 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.0168 -0.0102
+$EndPAD
+$EndMODULE fus_auto_keystone_3522-2
+$EndLIBRARY

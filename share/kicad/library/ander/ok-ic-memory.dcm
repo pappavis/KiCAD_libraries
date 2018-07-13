@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Di 16 Jul 2013 00:36:48 CEST
+#
+$CMP AS6C4008-55SIN
+D Alliance Memory Inc. 4MBit SRAM
+$ENDCMP
+#
+$CMP R1LV0808ASB-5SI
+D Alliance Memory Inc. 4MBit SRAM
+$ENDCMP
+#
+#End Doc Library

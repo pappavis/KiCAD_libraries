@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0  Date: вто, 19 мај 2015 19:28:50 CEST
+#
+$CMP DS1307
+D Maxim RTC Chip
+F http://datasheets.maximintegrated.com/en/ds/DS1307.pdf
+$ENDCMP
+#
+$CMP MAX6195
+D Low-Dropout Voltage References
+K reference, ldo, stable
+$ENDCMP
+#
+$CMP MAX7219
+D Serially Interfaced, 8-Digit LED Display Driver
+K led, 7segment, display driver, led driver
+$ENDCMP
+#
+#End Doc Library

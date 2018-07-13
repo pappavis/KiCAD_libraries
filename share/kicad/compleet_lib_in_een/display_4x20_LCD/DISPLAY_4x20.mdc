@@ -1,0 +1,9 @@
+PCBNEW-LibDoc----V1  dim. 23 déc. 2012 00:38:27 CET
+#
+$MODULE DISPLAY
+Li DISPLAY
+Cd Connecteur 14 pins
+Kw CONN DEV
+$EndMODULE
+#
+$EndLIBDOC

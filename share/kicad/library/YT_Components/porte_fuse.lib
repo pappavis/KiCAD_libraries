@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3  Date: 27/4/2009-07:14:34
+#
+# Porte_FUSE
+#
+DEF Porte_FUSE F 0 10 Y Y 1 F N
+F0 "F" -100 150 40 H V C C
+F1 "Porte_FUSE" -50 -150 40 H V C C
+DRAW
+P 3 0 1 0  -150 -150  -150 -150  -150 -150 f
+P 7 0 1 0  -150 0  -150 100  150 100  150 -100  -150 -100  -150 0  -150 0 f
+A 75 0 75 -1799 -1 0 1 0 N 0 0 150 0
+A -75 0 75 1 1799 0 1 0 N 0 0 -150 0
+X ~ 2 250 0 100 L 40 40 1 1 I
+X ~ 1 -250 0 100 R 40 40 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

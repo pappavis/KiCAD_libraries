@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0  Date: Mo 20 Aug 2012 23:47:12 CEST
+#
+$CMP REL-3PDT
+D 3PDT relay
+$ENDCMP
+#
+$CMP REL-3PST-NC
+D 3PST normally closed relay
+$ENDCMP
+#
+$CMP REL-3PST-NO
+D 3PST normally open relay
+$ENDCMP
+#
+$CMP REL-4PDT
+D 4PDT relay
+$ENDCMP
+#
+$CMP REL-4PST-NC
+D 4PST normally closed relay
+$ENDCMP
+#
+$CMP REL-4PST-NO
+D 4PST normally open relay
+$ENDCMP
+#
+$CMP REL-DPDT
+D DPDT relay
+$ENDCMP
+#
+$CMP REL-DPDT-2
+D dual DPDT relay
+$ENDCMP
+#
+$CMP REL-DPST-NC
+D DPST normally closed relay
+$ENDCMP
+#
+$CMP REL-DPST-NC-2
+D dual DPST normally closed relay
+$ENDCMP
+#
+$CMP REL-DPST-NO
+D DPST normally open relay
+$ENDCMP
+#
+$CMP REL-DPST-NO-2
+D dual DPST normally open relay
+$ENDCMP
+#
+$CMP REL-SPDT
+D SPDT relay
+$ENDCMP
+#
+$CMP REL-SPDT-2
+D dual SPDT relay
+$ENDCMP
+#
+$CMP REL-SPST-NC
+D SPST normally open relay
+$ENDCMP
+#
+$CMP REL-SPST-NC-2
+D SPST normally open relay
+$ENDCMP
+#
+$CMP REL-SPST-NO
+D SPST normally open relay
+$ENDCMP
+#
+$CMP REL-SPST-NO-2
+D dual SPST normally open relay
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,206 @@
+PCBNEW-LibModule-V1  So 29 Sep 2013 17:52:12 CEST
+# encoding utf-8
+Units mm
+$INDEX
+CON-10_MicroMatch-SMD-Lock
+CON-4_MicroMatch-SMD-Lock
+CON-6_MicroMatch-SMD-Lock
+$EndINDEX
+$MODULE CON-10_MicroMatch-SMD-Lock
+Po 0 0 0 15 52484BDD 00000000 ~~
+Li CON-10_MicroMatch-SMD-Lock
+Sc 0
+AR 
+Op 0 0 0
+T0 7.62 0 0.9 0.9 900 0.15 N V 21 N "CON-10_MicroMatch-SMD-Lock"
+T1 0 0 0.9 0.9 0 0.15 N I 21 N "VAL**"
+DS -7.75 -1.75 -8 -1.5 0.15 21
+DS -7.75 -0.5 -8 -0.5 0.15 21
+DS -7.75 -1.75 -7.75 -0.5 0.15 21
+DS -7.75 -0.5 -7.5 -0.5 0.15 21
+DS 6.75 2.5 6.75 -2.5 0.15 21
+DS -6.75 -2.5 -6.75 2.5 0.15 21
+DS -8.75 -2.5 8.75 -2.5 0.3 21
+DS 8.75 -2.5 8.75 2.5 0.3 21
+DS 8.75 2.5 -8.75 2.5 0.3 21
+DS -8.75 2.5 -8.75 -2.5 0.3 21
+$PAD
+Sh "1" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.715 -2.25
+$EndPAD
+$PAD
+Sh "2" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.445 2.25
+$EndPAD
+$PAD
+Sh "3" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 -2.25
+$EndPAD
+$PAD
+Sh "4" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 2.25
+$EndPAD
+$PAD
+Sh "5" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 -2.25
+$EndPAD
+$PAD
+Sh "6" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 2.25
+$EndPAD
+$PAD
+Sh "7" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 -2.25
+$EndPAD
+$PAD
+Sh "8" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 2.25
+$EndPAD
+$PAD
+Sh "9" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.445 -2.25
+$EndPAD
+$PAD
+Sh "10" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.715 2.25
+$EndPAD
+$EndMODULE CON-10_MicroMatch-SMD-Lock
+$MODULE CON-4_MicroMatch-SMD-Lock
+Po 0 0 0 15 52484CA7 00000000 ~~
+Li CON-4_MicroMatch-SMD-Lock
+Sc 0
+AR 
+Op 0 0 0
+T0 4 0 0.9 0.9 900 0.15 N V 21 N "CON-4_MicroMatch-SMD-Lock"
+T1 0 0 0.9 0.9 0 0.15 N I 21 N "VAL**"
+DS -5 2.5 5 2.5 0.3 21
+DS -5 -2.5 5 -2.5 0.3 21
+DS 5 2.5 5 -2.5 0.3 21
+DS -5 -2.5 -5 2.5 0.3 21
+DS 3 -2.5 3 2.5 0.15 21
+DS -4 -1.75 -4.25 -1.5 0.15 21
+DS -4 -0.5 -4.25 -0.5 0.15 21
+DS -4 -1.75 -4 -0.5 0.15 21
+DS -4 -0.5 -3.75 -0.5 0.15 21
+DS -3 -2.5 -3 2.5 0.15 21
+$PAD
+Sh "1" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 -2.25
+$EndPAD
+$PAD
+Sh "2" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 2.25
+$EndPAD
+$PAD
+Sh "3" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 -2.25
+$EndPAD
+$PAD
+Sh "4" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 2.25
+$EndPAD
+$EndMODULE CON-4_MicroMatch-SMD-Lock
+$MODULE CON-6_MicroMatch-SMD-Lock
+Po 0 0 0 15 52484B61 00000000 ~~
+Li CON-6_MicroMatch-SMD-Lock
+Sc 0
+AR 
+Op 0 0 0
+T0 5.25 0 0.9 0.9 900 0.15 N V 21 N "CON-6_MicroMatch-SMD-Lock"
+T1 0 0 0.9 0.9 0 0.15 N I 21 N "VAL**"
+DS -6.25 2.5 6.25 2.5 0.3 21
+DS -6.25 -2.5 6.25 -2.5 0.3 21
+DS 4.25 -2.5 4.25 2.5 0.15 21
+DS 6.25 -2.5 6.25 2.5 0.3 21
+DS -6.25 -2.5 -6.25 2.5 0.3 21
+DS -5.25 -1.75 -5.5 -1.5 0.15 21
+DS -5.25 -0.5 -5.5 -0.5 0.15 21
+DS -5.25 -1.75 -5.25 -0.5 0.15 21
+DS -5.25 -0.5 -5 -0.5 0.15 21
+DS -4.25 -2.5 -4.25 2.5 0.15 21
+$PAD
+Sh "1" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.175 -2.25
+$EndPAD
+$PAD
+Sh "2" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.905 2.25
+$EndPAD
+$PAD
+Sh "3" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.635 -2.25
+$EndPAD
+$PAD
+Sh "4" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.635 2.25
+$EndPAD
+$PAD
+Sh "5" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.905 -2.25
+$EndPAD
+$PAD
+Sh "6" R 1.5 3 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.175 2.25
+$EndPAD
+$EndMODULE CON-6_MicroMatch-SMD-Lock
+$EndLIBRARY

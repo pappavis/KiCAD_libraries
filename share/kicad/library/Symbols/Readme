@@ -1,0 +1,14 @@
+Component  Details              Manufacturer
+AM3517     ARM Cortex A8 SOC    TI
+IMX25      ARM 9 SOC            Freescale.
+LM2832     DC-DC regulator      National
+LM22676    DC-DC regulator      National
+LTC4002    Battery Charger      Linear
+MC34704    Power Management     Freescale
+MT29F2G08  Nand flash 8Bit      Micron/Samsung
+MT29F2G16  Nand flash 16Bit     Micron/Samsung
+MT47H64M16 DDR2 RAM             Micron
+TPS54332   DC-DC regulator      TI
+TPS65023   Power Management     TI
+TUSB1210   USB Interface        TI
+

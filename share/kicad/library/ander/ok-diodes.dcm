@@ -1,0 +1,99 @@
+EESchema-DOCLIB  Version 2.0  Date: Sa 08 Dez 2012 14:12:52 CET
+#
+$CMP 7-SEG
+D 7-segment display
+$ENDCMP
+#
+$CMP 7-SEG-DOT
+D 7-segment display with decimal dot
+$ENDCMP
+#
+$CMP DA108S
+D quad protection diode array
+$ENDCMP
+#
+$CMP DA112S
+D hex protection diode array
+$ENDCMP
+#
+$CMP DCAP
+D capacitive diode
+$ENDCMP
+#
+$CMP DIODE
+D diode
+$ENDCMP
+#
+$CMP DIODEBI
+D bidirectional diode
+$ENDCMP
+#
+$CMP DPHOTO
+D photo diode
+$ENDCMP
+#
+$CMP DSCHOTTKY
+D schottky diode
+$ENDCMP
+#
+$CMP DSCHOTTKY-2-CA
+D dual schottky diode, common anode
+$ENDCMP
+#
+$CMP DSCHOTTKY-2-CC
+D dual schottky diode, common cathode
+$ENDCMP
+#
+$CMP DSCHOTTKY-2-PROT
+D schottky protection diodes
+$ENDCMP
+#
+$CMP DTHERM
+D thermal diode
+$ENDCMP
+#
+$CMP DTUNNEL
+D tunnel diode
+$ENDCMP
+#
+$CMP DZENER
+D zener diode
+$ENDCMP
+#
+$CMP DZENERBI
+D bidirectional zener diode
+$ENDCMP
+#
+$CMP LED
+D LED
+$ENDCMP
+#
+$CMP LED-2
+D dual led, separate A/C
+$ENDCMP
+#
+$CMP LED-2-CA
+D dual led, common anode
+$ENDCMP
+#
+$CMP LED-2-CC
+D dual led, common cathode
+$ENDCMP
+#
+$CMP LED-2-S
+D LED, dual
+$ENDCMP
+#
+$CMP LED-3-CA
+D triple led, common anode
+$ENDCMP
+#
+$CMP LED-3-CC
+D triple led, common cathode
+$ENDCMP
+#
+$CMP LEDBAR-10
+D LEDBAR 10 LEDs
+$ENDCMP
+#
+#End Doc Library

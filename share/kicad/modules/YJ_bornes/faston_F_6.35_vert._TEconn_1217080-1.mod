@@ -1,0 +1,38 @@
+PCBNEW-LibModule-V1  jeu. 18 oct. 2012 14:43:45 CEST
+# encoding utf-8
+Units mm
+$INDEX
+faston_F_6.35_vert._TEconn_1217080-1
+$EndINDEX
+$MODULE faston_F_6.35_vert._TEconn_1217080-1
+Po 0 0 0 15 507FF8C6 00000000 ~~
+Li faston_F_6.35_vert._TEconn_1217080-1
+Cd cosse faston F 6,35 verticale TE connectivity 1217080-1
+Kw cosse faston
+Sc 0
+AR 
+Op 0 0 0
+T0 1.8415 -3.4925 1.524 1.524 0 0.3048 N V 21 N "faston_F_6.35_vert."
+T1 2.794 3.302 1.524 1.524 0 0.3048 N I 21 N "VAL**"
+DS 4.953 2.286 -0.127 2.286 0.381 21
+DS 0 -2.3495 5.1435 -2.3495 0.381 21
+DA 5.08 -0.0635 5.0165 -2.3495 900 0.381 21
+DA 5.08 0 7.366 0.127 900 0.381 21
+DA 0 0 -0.0635 2.286 900 0.381 21
+DA 0 -0.0635 -2.286 -0.0635 900 0.381 21
+$PAD
+Sh "1" O 2.99974 3.50012 0 0 0
+Dr 1.39954 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "1" O 2.99974 3.50012 0 0 0
+Dr 1.39954 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$EndMODULE faston_F_6.35_vert._TEconn_1217080-1
+$EndLIBRARY
